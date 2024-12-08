@@ -493,3 +493,43 @@ color: #c7c7c7;
         font-size: 1.2em;
     }
  }
+@media (max-width: 360px){
+    .logo{
+        margin: 0 0 0 28%;
+        font-size: 1.2em;
+    }
+    .section-content{
+        margin-bottom: 20em;
+    }
+    .section-content h1{
+        font-size: 18px;
+    }
+    .section-content p{
+        font-size: 0.7em;
+    }
+    .about_resume{
+        font-size: 0.9em;
+    }
+    .about_resume p{
+        font-size: 12px;
+    }
+    .about_img img{
+        margin: -10%;
+        width: 200px;
+        height: 200px;
+    }
+    .title-work h2{
+        font-size: 1.5em;
+    }
+    .panel h3{
+        bottom: 100px;
+        text-decoration: underline #FF7043;
+        font-size: 1em;
+    }
+    .panel p{
+        font-size: 10px;
+    }
+    .title_social{
+        font-size: 0.9em;
+    }
+}
